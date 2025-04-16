@@ -37,6 +37,7 @@ MonoBehaviour:
     - LeanCommon
     - LeanPool
     - Sirenix.OdinInspector.Modules.Unity.Addressables
+    - Sirenix.OdinInspector.Modules.UnityLocalization
     - UniRx
     - UniRx.Examples
     - VFolders
